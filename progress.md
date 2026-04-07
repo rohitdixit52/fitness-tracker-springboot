@@ -23,3 +23,14 @@
 ### 🧠 Learnings
 - Better understanding of Service layer responsibilities
 - Learned how to structure feature-specific APIs in Spring Boot
+
+## Day 3 
+
+### ✅ Work Done
+- Implemented GET API to fetch activities for a particular user
+- Designed logic to retrieve user-specific activity data
+- Integrated service layer with repository for fetching data
+
+### 🧠 Learnings
+- Learned how to fetch data based on user-specific conditions
+- Improved understanding of API design and response handling
