@@ -34,3 +34,26 @@
 ### 🧠 Learnings
 - Learned how to fetch data based on user-specific conditions
 - Improved understanding of API design and response handling
+
+## Day 4 
+
+### ✅ Work Done
+- Designed and implemented recommendation API for users
+- Built logic to generate personalized activity recommendations
+- Integrated recommendation feature with existing user and activity modules
+
+### 🧠 Learnings
+- Learned how to design basic recommendation logic based on user data
+- Improved understanding of combining multiple modules (User + Activity)
+- Gained experience in writing scalable service-layer logic
+
+### ✅ Work Done
+- Implemented API to fetch recommendations for a specific user using path variable
+- Designed endpoint for user-based recommendation retrieval
+- Integrated recommendation service with controller layer
+
+### 🧠 Learnings
+- Learned how to use path variables for dynamic API requests
+- Improved understanding of RESTful API design principles
+- Gained clarity on structuring user-specific endpoints
+
