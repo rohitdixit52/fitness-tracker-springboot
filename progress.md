@@ -47,6 +47,8 @@
 - Improved understanding of combining multiple modules (User + Activity)
 - Gained experience in writing scalable service-layer logic
 
+## Day 5
+
 ### ✅ Work Done
 - Implemented API to fetch recommendations for a specific user using path variable
 - Designed endpoint for user-based recommendation retrieval
@@ -57,3 +59,14 @@
 - Improved understanding of RESTful API design principles
 - Gained clarity on structuring user-specific endpoints
 
+## Day 6 
+
+### ✅ Work Done
+- Implemented GET API to fetch recommendations based on user activities
+- Designed logic to analyze activities and return relevant recommendations
+- Integrated activity module with recommendation service
+
+### 🧠 Learnings
+- Learned how to derive recommendations using activity data
+- Improved understanding of combining business logic across modules
+- Gained experience in designing data-driven APIs
