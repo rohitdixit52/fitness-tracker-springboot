@@ -70,3 +70,20 @@
 - Learned how to derive recommendations using activity data
 - Improved understanding of combining business logic across modules
 - Gained experience in designing data-driven APIs
+
+## Day 7
+
+### ✅ Work Done
+- Studied core concepts of Spring Security
+- Learned Authentication and Authorization mechanisms
+- Explored Spring Security architecture components:
+    - Filter Chain
+    - Security Context
+    - Role of Dispatcher Servlet in request flow
+
+### 🧠 Learnings
+- Understood difference between Authentication (who the user is) and Authorization (what the user can access)
+- Learned how Spring Security intercepts requests using filter chain
+- Gained clarity on how Security Context stores authenticated user details
+- Understood how Dispatcher Servlet works with security filters in request processing
+
